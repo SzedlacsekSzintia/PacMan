@@ -1,0 +1,11 @@
+E:\C#\C# 2. félév\PacMan\bin\Debug\PacMan.exe.config
+E:\C#\C# 2. félév\PacMan\bin\Debug\PacMan.exe
+E:\C#\C# 2. félév\PacMan\bin\Debug\PacMan.pdb
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.csprojAssemblyReference.cache
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.Form1.resources
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.Form2.resources
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.Properties.Resources.resources
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.csproj.GenerateResource.cache
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.exe
+E:\C#\C# 2. félév\PacMan\obj\Debug\PacMan.pdb
